@@ -39,3 +39,4 @@ npm-debug.log
 ## custom files ##
 script.js
 index.php
+.gitignore
