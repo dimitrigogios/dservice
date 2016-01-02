@@ -1,13 +1,13 @@
 ## dservice.js
 <p>
-    I've created a nice jQuery script that includes my favorites events, triggers and what not. You can download it here or you can include the below snippet just before <code>&lt;/head&gt;</code>.
+    I've created a nice jQuery script that includes my favorites events, triggers and what not. You can download it or you can just include the below code snippet just before <code>&lt;/head&gt;</code>.
     <br/>
     <br/>
     Use this snippet:
     <br/>
     <pre><code>&lt;script src&#61;&quot;dimitrigogios.com/dservice/dservice.js&quot; rel&#61;&quot;nofollow&quot;&gt;&lt;/script&gt;</code></pre>
     <br/>
-    See live demo <a href="http://dimitrigogios.com/dservice/#Cool-frontend-script-by-dimitri-gogios">here</a>
+    See Events triggered by <code>dservice.js</code> <a href="http://dimitrigogios.com/dservice/#Cool-frontend-script-by-dimitri-gogios" target="_blank">here</a>
 </p>
 <h2>What does Dservice do?</h2>
 <p>
@@ -103,7 +103,7 @@ copies or substantial portions of the Software.
 
 The software is provided "as is", without warranty of any kind, express or
 implied, including but not limited to the warranties of merchantability,
-fitness for a particular purpose and noninfringement. in no event shall the
+fitness for a particular purpose and noninfringement. In no event shall the
 authors or copyright holders be liable for any claim, damages or other
 liability, whether in an action of contract, tort or otherwise, arising from,
 out of or in connection with the software or the use or other dealings in the
