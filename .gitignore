@@ -9,7 +9,6 @@ bower_components
 upload
 .DS_Store
 
-
 ### SublimeText ###
 # cache files for sublime text
 *.tmlanguage.cache
@@ -29,7 +28,6 @@ upload
 ### Sass ###
 .sass-cache
 
-
 Gemfile.lock
 
 node_modules
@@ -39,4 +37,3 @@ npm-debug.log
 ## custom files ##
 script.js
 index.php
-.gitignore
